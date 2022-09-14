@@ -1,0 +1,243 @@
+body{
+    margin: 0;
+}
+nav{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding-left: 10px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.header #botimLogo{
+    position: relative;
+    left: 200px;
+    font-size: xx-large;
+}
+nav ul li{
+    display:inline-block;
+    list-style:none;
+    margin: 10px 25px;
+}
+.header{
+    background-color:white;
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    z-index: 1;
+}
+.main{
+    width: 100%;
+    height: 714px;
+    display:flex;
+    background-color:white;
+    padding-top: 100px;
+    }
+.div1{
+    width: 716px;
+    height: 600px;
+    background-color: white;
+    
+}
+.Text1{
+    padding-left: 301px;
+    font-weight: bold;
+    padding-top: 97px;
+}
+.subtext{
+    padding-left: 301px;
+}
+.smalltext{
+    padding-left:301px;
+    font-size: small;
+}
+.div2{
+    background-color: white;
+    width: 761px;
+    height: 600px;
+    display: flex;
+
+}
+.image{
+    height: 466px;
+    width: 421px;
+    padding-top: 59px
+}
+.Container2{
+    height:1000px;
+    width:100%;
+    background-color:azure;
+}
+.parentbox1{
+    height: 612px;
+    width: 376px;
+    margin-left: 189px;
+    top: 70px;
+    background-color: white;
+    position: relative;
+    overflow: hidden;
+}
+.text1Con{
+
+    position: relative;
+    bottom: -77px;
+    right: 21px;
+    color: black;
+}
+
+.txt1{
+    position:relative;
+    color: white;
+    top: -258px;
+    left: 230px;
+}
+.txt1sub2 {
+        position: relative;
+        color: white;
+        top: -272px;
+        left: 230px;
+    }
+
+.txt1sub{
+        position: relative;
+        color: white;
+        top: -272px;
+        left: 227px;
+    }
+
+.parentbox2{
+    left: 416px;
+    bottom: 770px;
+    height: 612px;
+    width: 376px;
+    margin-left: 189px;
+    background-color:white;
+    position: relative;
+    overflow: hidden;
+}
+.text2{
+    position: relative;
+    bottom: 1178px;
+    right: -29px;
+    color: white;
+}
+
+.txt2sub{
+    position: relative;
+    right: -630px;
+    bottom: 206px;
+}
+
+
+
+.txt2{
+    position:relative;
+    margin-left: 540px;
+    top: -1368px;
+    color:white;
+    top: -200px;
+    left: 200px;
+    font-size:l;
+}
+.pbtxt2{
+    position:relative;
+    color: black;
+    top: -200px;
+    left: 200px;
+}
+.parentbox3{
+    left: 827px;
+    bottom: 1572px;
+    height: 612px;
+    width: 376px;
+    margin-left: 189px;
+    background-color: #E65F42;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    border-radius: 18px;
+}
+.parentbox3Img{
+    position: relative;
+    top: 100px;
+    height: 250px;
+    width: 250px;
+
+}
+
+.text3{
+    position: relative;
+    bottom: 1178px;
+    right: -29px;
+    color: rgb(255,245,159);
+}
+.txt3{
+    position: relative;
+    margin-left: 540px;
+    top: -1368px;
+    color: white;
+    top: -633px;
+    left: 591px;
+}
+.txt3sub{
+    position: relative;
+    left: 1028px;
+    bottom: 633px;
+}
+.radbutton{
+    border: 3px solid rgb(0,126,229);
+    width: 20%;
+    margin: auto;
+    position: relative;
+    bottom: 150px;
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.radbutton .txtbtn{
+    color: rgb(0,126,229);
+}
+
+
+
+
+
+
+.Container3{
+    height:350px;
+    width:100%;
+    background-color:rgb(49,50,51);
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -100px;
+}
+.Container3 p{
+    color:white;
+
+}
+.Container3 h1{
+    color: white;
+    font-size: 14px;
+}
+
+
+.container4 span{
+    display: inline-block;
+    color: white;
+}
+.container4{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
